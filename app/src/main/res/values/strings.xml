@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    <string-array name="selection_array">
+        <item></item>
+        <item>View Recipe</item>
+        <item>Create Your Own Recipe</item>
+    </string-array>
+    <string-array name="selection_recipe_array">
+        <item>All</item>
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="selection_difficulty_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="selection_recipe_types_array">
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Others</item>
+    </string-array>
+
+
+
+    <!-- Chicken Recipe -->
+    <!-- Fried Chicken -->
+    <string name="ingredients_fried_chicken">2 whole free-range,organic chickens\n\nVegetable oil of choice, for frying the chicken\n\n6 cups all-purpose flour
+        5 tablespoons salt\n\n4 tablespoons ground black pepper\n\n2 tablespoons garlic powder\n\n1 tablespoon onion powder\n\n2 teaspoons cayenne pepper
+        \n\n2 cups buttermilk</string>
+    <string name="steps_fried_chicken">1. Cut the whole chickens into 4 breasts, 4 thighs, 4 legs and 4 wings and set aside.\n\n
+                                        2. Preheat your oil, in either a heavy pan on the stove or a deep-fryer, to 325 degrees F.\n\n
+                                        3. In a large bowl, combine the flour, salt, black pepper, garlic powder, onion powder and cayenne pepper until thoroughly mixed. Set aside.\n\n
+                                        4. Pour the buttermilk into another bowl large enough for the chicken to be immersed in the buttermilk.\n\n
+                                        5. Prepare your dredging station. Place your chicken in a bowl. Next to that, your bowl of buttermilk, and next to that, your dry mixture.\n\n
+                                        6. Take your breasts, lightly dust them with your flour mixture, then dip them in the buttermilk until they are coated, and then place them in the flour mixture.\n\n
+                                        7. Take the breasts that are in the flour mixture and aggressively push the flour mixture into the wet chicken. Make sure that the chicken in very thoroughly coated, or you will not achieve the crust and crunch you are looking for. Gently place the breasts in your hot oil.\n\n
+                                        8. Next, repeat the dredging steps with your other pieces of chicken in this order: thigh, leg then wing./n/n
+                                        9. When you place the last wing into the fryer, you should have 16 pieces of chicken in the oil. Set a timer for 15 minutes.\n\n
+                                        10. After 15 minutes, take a probe thermometer and check the temperature of a breast. If it reads 180 degrees F, all of your chicken is done. (Keep in mind that it will continue to cook after it has been removed from the fryer.)\n\n
+                                        11. Remove the chicken from the oil and let it drain for 5 minutes. Let cool for an additional 10 minutes before serving.</string>
+    <!-- Chicken Sausage -->
+    <string name="ingredients_chicken_sausage">2 tablespoons unsalted butter\n\n3/4pound sweet or hot Italian sausage, cut into chunks\n\n3/4pound skinless, boneless chicken breasts, cut into chunks\n\nKosher salt and freshly ground pepper \n\n1 tablespoon all-purpose flour \n\n1 small onion, chopped \n\n2 Italian green frying peppers, cut into 1-inch pieces \n\n3 cloves garlic, roughly chopped \n\n1/2 cup dry white wine \n\n3/4 cup low-sodium chicken broth \n\n1/4 cup roughly chopped fresh parsley \n\n2 jarred pickled cherry peppers, chopped, plus 2 tablespoons liquid from the jar></string>
+    <string name="steps_chicken_sausage">1. Heat 1 tablespoon butter in a large skillet over medium-high heat. Cook the sausage until golden, about 2 minutes. Season the chicken with salt and pepper, then toss with the flour in a bowl; add to the skillet and cook until browned but not cooked through, about 3 minutes.\n\n
+                                        2. Add the onion, peppers, garlic, 1/2 teaspoon salt, and pepper to taste and cook 3 minutes. Add the wine, scraping up any browned bits; bring to a boil and cook until slightly reduced, about 1 minute. Add the broth and bring to a gentle simmer. Cover and cook until the sausage and chicken are cooked through, about 5 minutes.\n\n
+        3. Transfer the chicken, sausage and vegetables to a platter with a slotted spoon. Increase the heat to high and stir the parsley and cherry peppers and their liquid into the skillet; boil until reduced by one-third, 2 to 3 minutes. Remove from the heat and stir in the remaining 1 tablespoon butter. Pour the sauce over the chicken mixture.</string>
+
+    <!-- Fish Recipe -->
+    <!-- Curry Salmon With Mango Chutney -->
+    <string name="ingredients_curry_salmon">2 tablespoons extra-virgin olive oil \n\n1 small shallot, sliced \n\n1 serrano chile pepper, thinly sliced (remove seeds for less heat) \n\n1 1/4 teaspoons Madras curry powder \n\nKosher salt and freshly ground pepper \n\n1 mango, peeled, pitted and chopped \n\n1/4 cup golden raisins \n\n2 tablespoons plus 1/2 to 1 teaspoon distilled white vinegar \n\n4 5-ounce skin-on salmon fillets (preferably wild) \n\n1 large bunch Swiss chard, leaves torn and stems sliced \n\n3 cloves garlic, smashed \n\n1/4 cup chopped fresh mint, plus more for topping</string>
+    <string name="steps_curry_salmon">1. Heat 1 tablespoon olive oil in a medium saucepan over medium-high heat. Add the shallot, serrano, 1/4 teaspoon curry powder and a pinch each of salt and pepper. Cook, stirring, until the shallot is lightly browned, 2 to 3 minutes. Stir in the mango, raisins, 2 tablespoons vinegar and 1 cup water. Reduce the heat to medium low and simmer, stirring and lightly mashing the mango chunks, until the chutney thickens, 10 to 15 minutes.\n\n
+                                        2. Meanwhile, rub the top and sides of the salmon with the remaining 1 teaspoon curry powder; season with salt and pepper. Lay the salmon skin-side down in a cold nonstick skillet. Place the skillet over medium heat and cook until the salmon skin is crisp and the fish is almost cooked through, 10 to 12 minutes. Flip and cook 1 to 2 more minutes.\n\n
+                                        3. Heat the remaining 1 tablespoon olive oil in a large skillet over medium-high heat. Add the chard stems, garlic and a pinch each of salt and pepper. Cook, stirring, until crisp-tender, about 3 minutes. Add the chard leaves and cook, stirring, until tender, 3 to 5 minutes. Add a few tablespoons of water if the pan is dry.\n\n
+                                        4.Stir the mint and 1/2 teaspoon vinegar into the mango chutney. Season with salt and up to 1/2 teaspoon more vinegar as needed. Divide the chard and salmon among plates. Spoon the mango chutney on top of the fish; sprinkle with more mint.</string>
+
+    <!-- Home Fragment -->
+    <string name="recipe_book_title">David Recipe Book</string>
+    <string name="view_recipe_title">View Recipe</string>
+    <string name="create_recipe_title">Create Your Own Recipe</string>
+
+
+    <!-- Alert Dialog -->
+    <string name="create_new_recipe">Create new recipe?</string>
+    <string name="update_recipe">Update recipe?</string>
+    <string name="validate_recipe_name">Recipe Name is empty.</string>
+    <string name="validate_completion_time">Completion Time is empty.</string>
+    <string name="validate_difficulty">Difficulty is empty.</string>
+    <string name="validate_ingredients">Ingredient is empty.</string>
+    <string name="validate_steps">Step is empty.</string>
+    <string name="validate_image">Please capture image for recipe</string>
+    <string name="confirm_delete">Confirm delete this recipe?</string>
+    <string name="confirm_edit">Confirm edit this recipe?</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
